@@ -26,6 +26,8 @@ examined the accuracy and MSE of all of the classification models that were
 used to determine whether or not a student needed to put more effort into that
 course.
 
+![Testing results](https://user-images.githubusercontent.com/64646670/149228841-c7767533-3008-4f43-bed8-b4a88e56deec.png)
+
 ## RESULTS
 Analysis of educational data, particularly the impact of social environment and
 family on students' performance, is critical for improving the quality of
